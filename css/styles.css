@@ -1,0 +1,11 @@
+.btn {
+  display: block;
+}
+
+.container > div{
+  display: none;
+}
+
+.blockF{
+  display: block;
+}
